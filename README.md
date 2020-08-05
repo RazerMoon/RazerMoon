@@ -38,6 +38,8 @@
 
 <img align="left" alt="Rasync's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RazerMoon&show_icons=true&hide_border=true" />
 
+<img align="left" alt="Rasync's Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerMoon&hide_border=true" />
+
 [website]: https://rasync.xyz
 [strips]: https://strips.rasync.xyz
 [discord]: https://discordhub.com/profile/162970149857656832
