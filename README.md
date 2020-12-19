@@ -35,9 +35,9 @@
 
 ---
 
-<img align="left" alt="Rasync's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RazerMoon&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Rasync's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RazerMoon&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
-<img align="left" alt="Rasync's Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerMoon&hide_border=true" />
+<img align="left" alt="Rasync's Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazerMoon&hide_border=true&theme=dark" />
 
 [website]: https://rasync.xyz
 [strips]: https://strips.rasync.xyz
