@@ -3,8 +3,8 @@
 ## I'm an average Developer!
 
 - 🔭 I’m currently working on my personal portfolio!
-- 🌱 I’m currently learning React and Kotlin
-- 🥅 2020 Goals: Be more efficient
+- 🌱 I’m currently working on my TypeScript skills
+- 🥅 2021 Goals: Get a college scholarship
 - ⚡ Fun fact: I love to play the piano
 
 ### Connect with me:
