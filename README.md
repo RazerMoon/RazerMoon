@@ -3,7 +3,7 @@
 ## I'm an average Developer!
 
 - 🔭 I’m currently working on my personal portfolio!
-- 🌱 I’m currently working on my TypeScript skills
+- 🌱 I’m currently working on my TypeScript and Docker skills
 - 🥅 2021 Goals: Get a college scholarship
 - ⚡ Fun fact: I love to play the piano
 
