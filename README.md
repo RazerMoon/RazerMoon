@@ -9,7 +9,7 @@
 
 ### Good books:
 
-- [Refactoring UI](https://refactoringui.com/book/) by Steve Schhoger, Adam Wathan
+- [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger, Adam Wathan
 - [The Docker Handbook](https://docker.farhan.info/) by Farhan Hasin Chowdhury
 
 ### Connect with me:
