@@ -7,6 +7,11 @@
 - 🥅 2021 Goals: Get a college scholarship
 - ⚡ Fun fact: I love to play the piano
 
+### Good books:
+
+- [Refactoring UI](https://refactoringui.com/book/) by Steve Schhoger, Adam Wathan
+- [The Docker Handbook](https://docker.farhan.info/) by Farhan Hasin Chowdhury
+
 ### Connect with me:
 
 [<img align="left" alt="Rasync | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
